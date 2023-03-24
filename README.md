@@ -44,8 +44,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jay-goyal-41395b224/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jay%20Goyal-blue?style=flat-square&logo=linkedin"></a>
-<a href="goyal.jay2003@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-goyal.jay2003@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/jay-goyal-41395b224/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jay%20Goyal-gray?style=flat-square&logo=linkedin"></a>
+<a href="goyal.jay2003@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-goyal.jay2003@gmail.com-gray?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [jay-goyal](https://github.com/jay-goyal)
