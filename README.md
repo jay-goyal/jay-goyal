@@ -30,7 +30,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![NeoVim](https://img.shields.io/badge/-NeoVim-333333?style=flat&logo=neovim)
-- 
+- 🐧 &nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux%20(Arch%20Btw%20😉)-333333?style=flat&logo=arch-linux)
 
 <br/>
 
