@@ -34,12 +34,6 @@
   ![Linux](https://img.shields.io/badge/-Linux%20(Arch%20Btw%20😉)-333333?style=flat&logo=arch-linux)
 
 <br/>
-
-<a href="https://github.com/jay-goyal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jay-goyal&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-goyal&theme=tokyonight&layout=compact" />
-</a>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
